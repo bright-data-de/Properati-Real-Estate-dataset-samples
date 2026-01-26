@@ -1,60 +1,60 @@
 # Properati Real Estate Dataset Sample
 
-<h2>A sample dataset of 11,961 records</h2>
+<h2>Ein Beispieldatensatz mit 11.961 Datensätzen</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.de">
     <img src="https://github.com/luminati-io/Properati-Real-Estate-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Properati Real Estate Dataset Sample** includes **11,961 records** and was extracted using the **Bright Data API**.
+Dieses **Properati Real Estate Dataset Sample** umfasst **11.961 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `Type` | The type of property, e.g., Casa (House), Departamento (Apartment). |
-| `Name` | A brief title or name describing the property listing. |
-| `Estrato` | Socio-economic classification of the property area. |
-| `Habitaciones` | The number of bedrooms in the property. |
-| `Banos` | The number of bathrooms in the property. |
-| `M2` | The total area of the property in square meters. |
-| `Descripcion` | A detailed description of the property, including features and amenities. |
-| `Precio` | The listed price of the property. |
-| `Currency` | The currency in which the property price is listed, e.g., USD, ARS. |
-| `Seller_name` | The name of the person or agency selling the property. |
-| `Publica_desde` | The date when the property listing was first published. |
-| `Imagen` | A list of image URLs representing the property. |
-| `Características` | Key features and facilities of the property in a JSON format. |
-| `Antiguedad` | The age of the property in years since construction. |
-| `Provincia` | The province or state where the property is located. |
-| `Region` | The specific region or district within the province of the property. |
-| `Address` | The full address of the property. |
-| `Geolocation` | The geographical coordinates (latitude and longitude) of the property. |
-| `venta_arriendo` | Indicates if the property is for sale or rent. |
-| `Phone` | Contact phone number of the seller or listing agency. |
-| `ID` | A unique identifier for the property listing. |
-| `url` | The URL link to the property listing details page. |
-| `Seller_id` | A unique identifier for the seller or listing agency. |
-| `Active` | Status of the listing, indicating if it is currently active or inactive. |
+| `Type` | Der Immobilientyp, z. B. Casa (Haus), Departamento (Wohnung). |
+| `Name` | Ein kurzer Titel oder Name, der das Immobilienangebot beschreibt. |
+| `Estrato` | Sozioökonomische Klassifizierung des Gebiets der Immobilie. |
+| `Habitaciones` | Die Anzahl der Schlafzimmer in der Immobilie. |
+| `Banos` | Die Anzahl der Badezimmer in der Immobilie. |
+| `M2` | Die Gesamtfläche der Immobilie in Quadratmetern. |
+| `Descripcion` | Eine detaillierte Beschreibung der Immobilie, einschließlich Merkmalen und Ausstattung. |
+| `Precio` | Der angegebene Preis der Immobilie. |
+| `Currency` | Die Währung, in der der Immobilienpreis angegeben ist, z. B. USD, ARS. |
+| `Seller_name` | Der Name der Person oder Agentur, die die Immobilie verkauft. |
+| `Publica_desde` | Das Datum, an dem das Immobilienangebot erstmals veröffentlicht wurde. |
+| `Imagen` | Eine Liste von Bild-URLs, die die Immobilie darstellen. |
+| `Características` | Zentrale Merkmale und Einrichtungen der Immobilie im JSON-Format. |
+| `Antiguedad` | Das Alter der Immobilie in Jahren seit der Errichtung. |
+| `Provincia` | Die Provinz oder das Bundesland, in dem sich die Immobilie befindet. |
+| `Region` | Die spezifische Region oder der Bezirk innerhalb der Provinz der Immobilie. |
+| `Address` | Die vollständige Adresse der Immobilie. |
+| `Geolocation` | Die geografischen Koordinaten (Breiten- und Längengrad) der Immobilie. |
+| `venta_arriendo` | Gibt an, ob die Immobilie zum Verkauf oder zur Miete angeboten wird. |
+| `Phone` | Kontakttelefonnummer des Verkäufers oder der anbietenden Agentur. |
+| `ID` | Eine eindeutige Kennung für das Immobilienangebot. |
+| `url` | Der URL-Link zur Detailseite des Immobilienangebots. |
+| `Seller_id` | Eine eindeutige Kennung für den Verkäufer oder die anbietende Agentur. |
+| `Active` | Status des Angebots, der angibt, ob es derzeit aktiv oder inaktiv ist. |
 
 
 ## Use Cases
 
-### 1. Real Estate Market Analysis
-Utilize this dataset to analyze trends in the real estate market, assessing property values and regional demand in Argentina and Colombia.
+### 1. Analyse des Immobilienmarkts
+Nutzen Sie diesen Datensatz, um Trends auf dem Immobilienmarkt zu analysieren und Immobilienwerte sowie die regionale Nachfrage in Argentinien und Kolumbien zu bewerten.
 
-### 2. Investment Opportunities
-Identify potential real estate investment opportunities by examining property features, prices, and locations for strategic decision-making.
+### 2. Investitionsmöglichkeiten
+Identifizieren Sie potenzielle Immobilien-Investitionsmöglichkeiten, indem Sie Immobilienmerkmale, Preise und Standorte für strategische Entscheidungen untersuchen.
 
-### 3. Urban Development Research
-Conduct research on urban development patterns and housing availability to support policy-making and urban planning initiatives.
+### 3. Forschung zur Stadtentwicklung
+Führen Sie Untersuchungen zu Mustern der Stadtentwicklung und zur Verfügbarkeit von Wohnraum durch, um politische Entscheidungsfindung sowie Initiativen zur Stadtplanung zu unterstützen.
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+Der Datensatz ist in mehreren Formaten verfügbar:
+- **CSV** (in diesem Sample enthalten)
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -74,8 +74,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+Datensätze können nach verschiedenen Zeitplänen aktualisiert werden:
+- **Once** (einmalige Lieferung)
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -84,14 +84,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+Erweitern Sie Ihren Datensatz mit zusätzlichen Datenpunkten auf Basis Ihrer spezifischen Anforderungen. Kontaktieren Sie uns für benutzerdefinierte Anreicherungsoptionen.
 
-**[Get the full Properati Real Estate dataset](https://brightdata.com/products/datasets/real-estate)**
+**[Holen Sie sich den vollständigen Properati Real Estate dataset](https://brightdata.de/products/datasets/real-estate)**
 
 ---
 
-## Free Access for Researchers and NGOs
+## Kostenloser Zugang für Forschende und NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Die Bright Initiative bietet kostenlosen Zugang zu **[Web Scraper APIs](https://brightdata.de/products/web-scraper)** und **[einsatzbereiten Datensätzen](https://brightdata.de/products/datasets)** für akademische Forschende, NGOs und NPOs, die an Umwelt- und Sozialthemen arbeiten. 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+Beantragen Sie kostenlosen Zugang unter [brightinitiative.com](https://brightinitiative.com).
