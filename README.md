@@ -3,7 +3,7 @@
 <h2>Ein Beispieldatensatz mit 11.961 Datensätzen</h2>
 
 <a href="https://brightdata.de">
-    <img src="https://github.com/luminati-io/Properati-Real-Estate-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-data-de/Properati-Real-Estate-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 Dieses **Properati Real Estate Dataset Sample** umfasst **11.961 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
