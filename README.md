@@ -1,6 +1,6 @@
 # Properati Real Estate Dataset Sample
 
-<h2>Ein Beispieldatensatz mit 11.961 Datensätzen</h2>
+<h2>Ein Beispiel-Dataset mit 11.961 Datensätzen</h2>
 
 <a href="https://brightdata.de">
     <img src="https://github.com/bright-data-de/Properati-Real-Estate-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
@@ -8,28 +8,28 @@
 
 Dieses **Properati Real Estate Dataset Sample** umfasst **11.961 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
 
-## Data Points
+## Datenpunkte
 
-| Field Name | Description |
+| Feldname | Beschreibung |
 |------------|-------------|
-| `Type` | Der Immobilientyp, z. B. Casa (Haus), Departamento (Wohnung). |
-| `Name` | Ein kurzer Titel oder Name, der das Immobilienangebot beschreibt. |
-| `Estrato` | Sozioökonomische Klassifizierung des Gebiets der Immobilie. |
+| `Type` | Der Typ der Immobilie, z. B. Casa (Haus), Departamento (Apartment). |
+| `Name` | Ein kurzer Titel oder Name zur Beschreibung des Immobilienangebots. |
+| `Estrato` | Sozioökonomische Klassifizierung des Gebiets, in dem sich die Immobilie befindet. |
 | `Habitaciones` | Die Anzahl der Schlafzimmer in der Immobilie. |
 | `Banos` | Die Anzahl der Badezimmer in der Immobilie. |
 | `M2` | Die Gesamtfläche der Immobilie in Quadratmetern. |
-| `Descripcion` | Eine detaillierte Beschreibung der Immobilie, einschließlich Merkmalen und Ausstattung. |
+| `Descripcion` | Eine detaillierte Beschreibung der Immobilie, einschließlich Merkmalen und Ausstattungen. |
 | `Precio` | Der angegebene Preis der Immobilie. |
 | `Currency` | Die Währung, in der der Immobilienpreis angegeben ist, z. B. USD, ARS. |
 | `Seller_name` | Der Name der Person oder Agentur, die die Immobilie verkauft. |
 | `Publica_desde` | Das Datum, an dem das Immobilienangebot erstmals veröffentlicht wurde. |
 | `Imagen` | Eine Liste von Bild-URLs, die die Immobilie darstellen. |
-| `Características` | Zentrale Merkmale und Einrichtungen der Immobilie im JSON-Format. |
+| `Características` | Wichtige Merkmale und Einrichtungen der Immobilie im JSON-Format. |
 | `Antiguedad` | Das Alter der Immobilie in Jahren seit der Errichtung. |
-| `Provincia` | Die Provinz oder das Bundesland, in dem sich die Immobilie befindet. |
+| `Provincia` | Die Provinz oder das Bundesland, in der bzw. dem sich die Immobilie befindet. |
 | `Region` | Die spezifische Region oder der Bezirk innerhalb der Provinz der Immobilie. |
 | `Address` | Die vollständige Adresse der Immobilie. |
-| `Geolocation` | Die geografischen Koordinaten (Breiten- und Längengrad) der Immobilie. |
+| `Geolocation` | Die geografischen Koordinaten (Breitengrad und Längengrad) der Immobilie. |
 | `venta_arriendo` | Gibt an, ob die Immobilie zum Verkauf oder zur Miete angeboten wird. |
 | `Phone` | Kontakttelefonnummer des Verkäufers oder der anbietenden Agentur. |
 | `ID` | Eine eindeutige Kennung für das Immobilienangebot. |
@@ -38,22 +38,22 @@ Dieses **Properati Real Estate Dataset Sample** umfasst **11.961 Datensätze** u
 | `Active` | Status des Angebots, der angibt, ob es derzeit aktiv oder inaktiv ist. |
 
 
-## Use Cases
+## Anwendungsfälle
 
 ### 1. Analyse des Immobilienmarkts
-Nutzen Sie diesen Datensatz, um Trends auf dem Immobilienmarkt zu analysieren und Immobilienwerte sowie die regionale Nachfrage in Argentinien und Kolumbien zu bewerten.
+Nutzen Sie dieses Dataset, um Trends auf dem Immobilienmarkt zu analysieren und Immobilienwerte sowie die regionale Nachfrage in Argentinien und Kolumbien zu bewerten.
 
 ### 2. Investitionsmöglichkeiten
-Identifizieren Sie potenzielle Immobilien-Investitionsmöglichkeiten, indem Sie Immobilienmerkmale, Preise und Standorte für strategische Entscheidungen untersuchen.
+Identifizieren Sie potenzielle Investitionsmöglichkeiten im Immobilienbereich, indem Sie Immobilienmerkmale, Preise und Standorte für strategische Entscheidungen untersuchen.
 
 ### 3. Forschung zur Stadtentwicklung
-Führen Sie Untersuchungen zu Mustern der Stadtentwicklung und zur Verfügbarkeit von Wohnraum durch, um politische Entscheidungsfindung sowie Initiativen zur Stadtplanung zu unterstützen.
+Führen Sie Forschung zu Mustern der Stadtentwicklung und zur Verfügbarkeit von Wohnraum durch, um politische Entscheidungsfindung und Initiativen der Stadtplanung zu unterstützen.
 
 
 
-## File Formats
+## Dateiformate
 
-Der Datensatz ist in mehreren Formaten verfügbar:
+Das Dataset ist in mehreren Formaten verfügbar:
 - **CSV** (in diesem Sample enthalten)
 - **JSON**
 - **NDJSON**
@@ -61,7 +61,7 @@ Der Datensatz ist in mehreren Formaten verfügbar:
 - **Parquet**
 - **Compressed (.gz)**
 
-## Delivery Options
+## Bereitstellungsoptionen
 
 - **Email**
 - **API Download**
@@ -72,26 +72,26 @@ Der Datensatz ist in mehreren Formaten verfügbar:
 - **Snowflake**
 - **SFTP**
 
-## Update Frequency
+## Aktualisierungshäufigkeit
 
-Datensätze können nach verschiedenen Zeitplänen aktualisiert werden:
-- **Once** (einmalige Lieferung)
+Datasets können nach verschiedenen Zeitplänen aktualisiert werden:
+- **Once** (einmalige Bereitstellung)
 - **Daily**
 - **Weekly**
 - **Monthly**
 - **Quarterly**
 - **Custom schedules**
 
-## Data Enrichment
+## Datenanreicherung
 
-Erweitern Sie Ihren Datensatz mit zusätzlichen Datenpunkten auf Basis Ihrer spezifischen Anforderungen. Kontaktieren Sie uns für benutzerdefinierte Anreicherungsoptionen.
+Erweitern Sie Ihr Dataset mit zusätzlichen Datenpunkten basierend auf Ihren spezifischen Anforderungen. Kontaktieren Sie uns für individuelle Anreicherungsoptionen.
 
-**[Holen Sie sich den vollständigen Properati Real Estate dataset](https://brightdata.de/products/datasets/real-estate)**
+**[Holen Sie sich das vollständige Properati Real Estate dataset](https://brightdata.de/products/datasets/real-estate)**
 
 ---
 
 ## Kostenloser Zugang für Forschende und NGOs
 
-Die Bright Initiative bietet kostenlosen Zugang zu **[Web Scraper APIs](https://brightdata.de/products/web-scraper)** und **[einsatzbereiten Datensätzen](https://brightdata.de/products/datasets)** für akademische Forschende, NGOs und NPOs, die an Umwelt- und Sozialthemen arbeiten. 
+Die Bright Initiative bietet kostenlosen Zugang zu **[Web Scraper APIs](https://brightdata.de/products/web-scraper)** und **[einsatzbereiten Datasets](https://brightdata.de/products/datasets)** für akademische Forschende, NGOs und NPOs, die an Umwelt- und Sozialthemen arbeiten. 
 
 Beantragen Sie kostenlosen Zugang unter [brightinitiative.com](https://brightinitiative.com).
